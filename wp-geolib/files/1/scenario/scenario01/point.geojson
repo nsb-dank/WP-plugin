@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "point",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4612" } },
+"features": [
+{ "type": "Feature", "properties": { "no": null, "symbol": null, "filename": null, "remarks": null, "_markerType": null, "_className": null, "_stroke": null, "_color": null, "_weight": null, "_opacity": null, "_fill": null, "_fillColor": null, "_dashArray": null, "_lineCap": null, "_lineJoin": null, "_clickable": null, "_iconUrl": null, "_iconSize": null, "_iconAnchor": null, "_html": null, "_radius": null }, "geometry": { "type": "MultiPoint", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "no": null, "symbol": "ｒ1", "filename": "scenario01_1.html", "remarks": "不整合", "_markerType": "Icon", "_className": "赤①", "_stroke": "True", "_color": null, "_weight": null, "_opacity": null, "_fill": null, "_fillColor": null, "_dashArray": null, "_lineCap": "round", "_lineJoin": "round", "_clickable": "True", "_iconUrl": "red-marker-1.svg", "_iconSize": null, "_iconAnchor": null, "_html": null, "_radius": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 139.005850319828426, 36.050396448576478 ] ] } },
+{ "type": "Feature", "properties": { "no": null, "symbol": "ｒ2", "filename": "scenario01_2.html", "remarks": "不整合", "_markerType": "Icon", "_className": "赤②", "_stroke": "True", "_color": null, "_weight": null, "_opacity": null, "_fill": null, "_fillColor": null, "_dashArray": null, "_lineCap": "round", "_lineJoin": "round", "_clickable": "True", "_iconUrl": "red-marker-2.svg", "_iconSize": null, "_iconAnchor": null, "_html": null, "_radius": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 138.989695634047081, 36.049146638668532 ] ] } },
+{ "type": "Feature", "properties": { "no": null, "symbol": "ｒ3", "filename": "scenario01_3.html", "remarks": "不整合", "_markerType": "Icon", "_className": "赤③", "_stroke": "True", "_color": null, "_weight": null, "_opacity": null, "_fill": null, "_fillColor": null, "_dashArray": null, "_lineCap": "round", "_lineJoin": "round", "_clickable": "True", "_iconUrl": "red-marker-3.svg", "_iconSize": null, "_iconAnchor": null, "_html": null, "_radius": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 138.981768268345348, 36.050317889096533 ] ] } }
+]
+}

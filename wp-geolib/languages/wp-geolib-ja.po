@@ -1,0 +1,99 @@
+# Copyright (C) 2018 WP Geoscience Library
+# This file is distributed under the same license as the WP Geoscience Library package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Geoscience Library\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-geolib\n"
+"POT-Creation-Date: 2018-10-11 03:40+0900\n"
+"PO-Revision-Date: 2018-10-13 10:51+0900\n"
+"Last-Translator: Yukihiko Karata <yukihiko.karata@nsb-dank.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: Poedit 2.2\n"
+
+#: wp-geolib.php:59 wp-geolib.php:71
+msgid "Geo Libraries"
+msgstr "地学ライブラリ"
+
+#: wp-geolib.php:60
+msgid "Geo Library"
+msgstr "地学ライブラリ"
+
+#: wp-geolib.php:61
+msgid "Add New"
+msgstr "新規作成"
+
+#: wp-geolib.php:62
+msgid "Add New Geo Library"
+msgstr "新規ライブラリを追加"
+
+#: wp-geolib.php:63
+msgid "Edit Geo Library"
+msgstr "ライブラリを編集"
+
+#: wp-geolib.php:64
+msgid "New Geo Library"
+msgstr ""
+"新規\n"
+"ライブラリ"
+
+#: wp-geolib.php:65
+msgid "All Geo Libraries"
+msgstr ""
+"すべての\n"
+"ライブラリ"
+
+#: wp-geolib.php:66
+msgid "View Geo Library"
+msgstr "ライブラリを表示"
+
+#: wp-geolib.php:67
+msgid "Search Geo Libraries"
+msgstr "ライブラリを検索"
+
+#: wp-geolib.php:68
+msgid "No geo libraries found"
+msgstr "ライブラリがありません"
+
+#: wp-geolib.php:69
+msgid "No geo libraries found in the Trash"
+msgstr "ゴミ箱にライブラリが見つかりません"
+
+#: wp-geolib.php:98
+msgid "Details"
+msgstr "詳細"
+
+#: wp-geolib.php:124
+msgid "Title"
+msgstr "表題"
+
+#: wp-geolib.php:128
+msgid "Area"
+msgstr "エリア"
+
+#: wp-geolib.php:132
+msgid "Level"
+msgstr "レベル"
+
+#: wp-geolib.php:136
+msgid "Geometry"
+msgstr "地図範囲"
+
+#: wp-geolib.php:140
+msgid "File Path"
+msgstr "ファイル保存先"
+
+#: wp-geolib.php:144
+msgid "Published"
+msgstr "公開"
+
+#. Plugin URI of the plugin/theme
+msgid "http://eastcoder.com/code/wp-multibyte-patch/"
+msgstr "http://eastcoder.com/code/wp-multibyte-patch/"
+
+#. Description of the plugin/theme
+msgid "This plugin create Web Geoscience Library Site."
+msgstr "Wet地学ライブラリサイトを作成するプラグインです。 <a href=\"http://eastcoder.com/code/wp-multibyte-patch/\">&raquo; 詳しい説明を読む</a>"
